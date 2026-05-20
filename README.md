@@ -1,2 +1,1 @@
-# metodocuba-lucrativa
-Profitable Cuba Method - Landing Page
+# Método Cuba Lucrativa - Landing Page
